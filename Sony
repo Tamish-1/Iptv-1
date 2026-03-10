@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+
+#EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-name="Sony Entertainment TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Entertainment_Television_logo.png/512px-Sony_Entertainment_Television_logo.png" group-title="Hindi Entertainment",Sony Entertainment TV
+https://my-dev--worker-1-x5wz.diploi.me/hls?id=1700312
